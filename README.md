@@ -1,1 +1,1 @@
-# EXERCISE--1-JS-Linking
+# Exercise-1-JS-Linking
